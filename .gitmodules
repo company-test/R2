@@ -4,3 +4,6 @@
 [submodule "origin/auto1"]
 	path = origin/auto1
 	url = https://github.com/hellfreak/port-scan-automation
+[submodule "testscripts"]
+	path = testscripts
+	url = https://github.com/hellfreak/testscripts.git
